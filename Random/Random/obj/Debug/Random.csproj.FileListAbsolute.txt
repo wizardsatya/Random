@@ -1,0 +1,6 @@
+X:\DA2-EXL\satya\Random\Random\bin\Debug\Random.exe.config
+X:\DA2-EXL\satya\Random\Random\bin\Debug\Random.exe
+X:\DA2-EXL\satya\Random\Random\bin\Debug\Random.pdb
+X:\DA2-EXL\satya\Random\Random\obj\Debug\Random.csprojResolveAssemblyReference.cache
+X:\DA2-EXL\satya\Random\Random\obj\Debug\Random.exe
+X:\DA2-EXL\satya\Random\Random\obj\Debug\Random.pdb
